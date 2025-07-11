@@ -2,7 +2,7 @@
 
 ¡Bienvenido! Este es el repositorio oficial del curso **"Fundamentos de Programación con C"**, una serie gratuita en YouTube donde aprenderás a programar desde lo más básico hasta estructuras de datos y algoritmos utilizando el lenguaje **C**.
 
-> 🎥 Canal de YouTube: [Joan Pablo Alvarado Garfias](https://www.youtube.com/@joan_g)
+> 🎥 Canal de YouTube: [Joan G.](https://www.youtube.com/@joan_g)
 
 ---
 
